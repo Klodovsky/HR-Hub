@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b3cfcbec-cfd5-48f4-bc7f-145f9787c75e/deploy-status)](https://app.netlify.com/sites/hr-hub-demo/deploys)
 
 <!-- PROJECT LOGO -->
 # HR-Hub-vuejs
